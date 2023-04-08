@@ -3,7 +3,7 @@
 GameManager::GameManager(): MAX_TRIES(5)
 {
     words[0] = "india";
-	words[1] = "pakistan";
+	words[1] = "Eurpoe";
 	words[2] = "nepal";
 	words[3] = "malaysia";
 	words[4] = "philippines";
