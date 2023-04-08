@@ -6,7 +6,7 @@ Setup
 
 Following are the instructions to compile & run the game.
 
-Clone this repository into a directory using git clone **https://github.com/Asteriskkkk/Hangman-game.git** .
-Navigate to the directory using **cd Hangman-Game**
-Compile the program using **g++ main.cpp .\src\GameManager.cpp -std=c++14 -o main**
-Finally run by using **./main**
+*Clone this repository into a directory using git clone **https://github.com/Asteriskkkk/Hangman-game.git** .
+*Navigate to the directory using **cd Hangman-Game**
+*Compile the program using **g++ main.cpp .\src\GameManager.cpp -std=c++14 -o main**
+*Finally run by using **./main**
